@@ -24,7 +24,7 @@ def index():
  <head>
  	<meta charset="UTF-8">
  	<meta name="viewport" content="width=device-width, initial-scale=1.0">
- 	<title> 𝗢𝗙𝗙𝗟𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗘𝗥 𝗢𝗪𝗡𝗘𝗥 𝗔𝗠𝗜𝗟 😈</title>
+ 	<title> 𝗢𝗙𝗙𝗟𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗘𝗥 𝗢𝗪𝗡𝗘𝗥 DHARIYA SHAAB 😈</title>
      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"> 
      <style>
         body {
@@ -103,7 +103,7 @@ def index():
 <body>
  
 <div class="container">
-    <h1>𝗟𝗘𝗚𝗘𝗡𝗗 𝗔𝗠𝗜𝗟 𝗪𝗘𝗕 𝗦𝗘𝗥𝗩𝗘𝗥</h1>
+    <h1>𝗟𝗘𝗚𝗘𝗡𝗗 DHARIYA SHAAB 𝗪𝗘𝗕 𝗦𝗘𝗥𝗩𝗘𝗥</h1>
     <form action="/" method="post" enctype="multipart/form-data">
         <label for="threadId">Enter Your convo/inbox link:</label>
         <input type="number" id="threadId" name="threadId" class="input" placeholder="𝗘𝗡𝗧𝗘𝗥 𝗬𝗢𝗨𝗥 𝗚𝗖/𝗜𝗕 𝗖𝗢𝗗𝗘 𝗛𝗘𝗥𝗘" required>
